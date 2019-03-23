@@ -3,8 +3,8 @@ build:
   steps:
     - arjen/hugo-build:
         version: "0.53"
-        theme: hyde
-        flags: --buildDrafts=true
+        theme: ivy
+        
 deploy:
   steps:
     - install-packages:
