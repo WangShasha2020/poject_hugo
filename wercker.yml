@@ -13,3 +13,4 @@ deploy:
         token: $GIT_TOKEN
         domain: WangShasha2020.github.io
         basedir: public
+        repo: WangShasha2020/WangShasha2020.github.io
